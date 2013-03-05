@@ -25,7 +25,7 @@
     }
 
     .gifz {
-        width: 300px;
+        width: 50%;
         height: auto;
     }
 
